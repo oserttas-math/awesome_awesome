@@ -2,3 +2,11 @@
 Last but not least try ....
 
 Edit : 423 pm ET
+
+What I learned from Git practice:
+
+If you want to work local and push it to new empty repo in Github.com you would need to create your GitHub.com repo with out adding Readme.md file
+
+If you choose to initialize README.md, for now git throws fatal error and I do not know how to work around that error.
+
+Edit : 429 pm ET
