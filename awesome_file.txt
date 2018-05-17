@@ -10,3 +10,9 @@ If you want to work local and push it to new empty repo in Github.com you would 
 If you choose to initialize README.md, for now git throws fatal error and I do not know how to work around that error.
 
 Edit : 429 pm ET
+
+I guess this might work :
+
+git push --set-upstream origin master
+
+Edit : 432 pm ET
